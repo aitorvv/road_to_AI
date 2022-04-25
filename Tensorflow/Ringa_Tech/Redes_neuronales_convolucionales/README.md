@@ -1,4 +1,4 @@
-* Explicación de redes neuronales convolucionales
+# Explicación de redes neuronales convolucionales
   
 Las redes neuronales convolucionales reciben los píxeles, extraen las características y las clasfican con capas regulares. De esta manera, este tipo de redes neuronales dejan de depender del tamaño y la posición de las cosas.  
 Para evolucionar una red regular a una red convolucional necesitamos agregar dos tipos nuevos de capas:
