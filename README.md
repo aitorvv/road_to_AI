@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Road to AI](https://github.com/aitorvv96/road_to_AI)
+[Road to AI](https://github.com/aitorvv/road_to_AI)
 
 </center>
 
@@ -34,7 +34,7 @@ Herramientas:
 ---
 <center>
 
-[Road to AI](https://github.com/aitorvv96/road_to_AI) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Road to AI](https://github.com/aitorvv/road_to_AI) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 
